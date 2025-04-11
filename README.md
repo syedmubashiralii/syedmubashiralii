@@ -1,35 +1,90 @@
-<h1 align="center">Hi 👋, I'm Syed Mubashir Ali</h1>
-<h3 align="center">A passionate flutter developer from Islamabad, Pakistan</h3>
+<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 40px; color: #333;">Hi 👋, I'm Syed Mubashir Ali</h1>
+<h3 align="center" style="font-family: 'Courier New', monospace; font-size: 20px; color: #555;">A passionate Flutter developer from Islamabad, Pakistan</h3>
 
 <div align="center">
+  <!-- Gmail Icon and Link -->
   <a href="mailto:smubashirali620@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
+  
+  <!-- LinkedIn Icon and Link -->
   <a href="www.linkedin.com/in/syed-mubashir-ali-796122177" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21134388/syed-mubashir-ali" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.instagram.com/syedmubashiralii?igsh=MWUxN3ZhYnAyM3hq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
+  <!-- StackOverflow Icon and Link -->
+  <a href="https://stackoverflow.com/users/21134388/syed-mubashir-ali" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo" />
+  </a>
+  
+  <!-- Instagram Icon and Link -->
+  <a href="https://www.instagram.com/syedmubashiralii?igsh=MWUxN3ZhYnAyM3hq" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
 </div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmubashiralii&label=Profile%20views&color=0e75b6&style=flat" alt="syedmubashiralii" /> </p>
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **smubashirali620@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<!-- Profile Views Counter -->
 <p align="left">
-<a href="https://www.linkedin.com/in/syed-mubashir-ali-796122177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedmubashirali" height="30" width="40" /></a>
-<a href="https://fb.com/syedmubashiralii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedmubashiralii" height="30" width="40" /></a>
-<a href="https://instagram.com/syedmubashiralii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedmubashiralii" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=syedmubashiralii&label=Profile%20views&color=0e75b6&style=flat" alt="syedmubashiralii" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<!-- Short Description -->
+<p align="left">
+  - 💬 Ask me about **Flutter**, I love solving Flutter challenges and building intuitive, performant apps.  
+  - 📫 You can reach me directly via **smubashirali620@gmail.com** for collaborations, questions, or just a friendly tech chat!
+</p>
+
+### Language & Tools
+
+<div align="left">
+  <!-- Flutter Badge -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="20" alt="flutter logo" />
+  <img width="7" />
+  
+  <!-- Dart Badge -->
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="20" alt="dart logo" />
+  <img width="7" />
+  
+  <!-- .NET Badge -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" height="20" alt=".net logo" />
+  <img width="7" />
+  
+  <!-- React Badge -->
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="20" alt="react logo" />
+  <img width="7" />
+  
+  <!-- Android Badge -->
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" height="20" alt="android logo" />
+  <img width="7" />
+  
+  <!-- PHP Badge -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="20" alt="php logo" />
+  <img width="7" />
+  
+  <!-- MySQL Badge -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="20" alt="mysql logo" />
+  <img width="7" />
+  
+  <!-- Flutter Web Badge -->
+  <img src="https://img.shields.io/badge/Flutter_Web-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="20" alt="flutter web logo" />
+  <img width="7" />
+  
+  <!-- Jira Badge -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="20" alt="jira logo" />
+  <img width="7" />
+  
+  <!-- Postman Badge -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="20" alt="postman logo" />
+  <img width="7" />
+  
+  <!-- Firebase Badge -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="20" alt="firebase logo" />
+  <img width="7" />
+  
+  <!-- Slack Badge -->
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="20" alt="slack logo" />
+  <img width="7" />
+  
+  <!-- iOS Dev Badge -->
+  <img src="https://img.shields.io/badge/IOS-000000?logo=apple&logoColor=white&style=for-the-badge" height="20" alt="ios dev logo" />
+</div>
