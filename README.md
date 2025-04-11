@@ -90,4 +90,12 @@
 </div>
 
 
+<div align="center">
+  <h2>My GitHub Streak 📈</h2>
+  <p>Here's my daily contribution streak on GitHub!</p>
+  <img src="https://streak-stats.demolab.com?user=syedmubashiralii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak Graph" height="200" />
+  <p>Keep contributing and watch your streak grow! 🔥</p>
+</div>
+
+
 
