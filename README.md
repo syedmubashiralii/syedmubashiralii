@@ -2,21 +2,19 @@
 <h3 align="center">A passionate flutter developer from Islamabad, Pakistan</h3>
 
 <div align="center">
-  <a href="mailto:mazeem8856@gmail.com" target="_blank">
+  <a href="mailto:smubashirali620@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-azeem-a0b3761bb/" target="_blank">
+  <a href="www.linkedin.com/in/syed-mubashir-ali-796122177" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/16585177/muhammad-azeem" target="_blank">
+  <a href="https://stackoverflow.com/users/21134388/syed-mubashir-ali" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
-  <a href="https://twitter.com/Muhamma59461219" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.instagram.com/syedmubashiralii?igsh=MWUxN3ZhYnAyM3hq" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://tryhackme.com/p/mazeem77" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
+
 </div>
 
 
