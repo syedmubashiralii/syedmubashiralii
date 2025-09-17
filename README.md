@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 
-  <a href="https://syed-mubashir-ali.lovable.app" target="_blank">
+  <a href="https://syed-mubashir-ali-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0e75b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio link" />
 </a>
 </div>
